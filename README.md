@@ -9,4 +9,5 @@ Once ran, the robot will do the following:
 - For each row in the table submit an order (even in case of server errors)
 - Take a screenshot of the receipt and the image of each robot, merge the two in a pdf and insert all the PDFs in a zipped folder
 - Close the browser
-By. Andrés L. Ospina G. 2025.
+
+- By. Andrés L. Ospina G. 2025.
